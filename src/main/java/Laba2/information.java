@@ -31,8 +31,8 @@ public class information {
 		JLabel User3 = new JLabel("Сайдуганов Руслан Анатольевич № зачетной книжки:19130636   19.03.2021"); 
 		User3.setBounds(20,140,700,30);
 		Inf_panel.add(User3);
-		JLabel User4 = new JLabel("Хуснуриялов Булат Фагитович № зачетной книжки:19130608"); 
-		User4.setBounds(20,180,600,30);
+		JLabel User4 = new JLabel("Хуснуриялов Булат Фагитович № зачетной книжки:19130608   19.03.2021"); 
+		User4.setBounds(20,180,700,30);
 		Inf_panel.add(User4);
 		JLabel data = new JLabel("Данные из загруженного файла:");
 		data.setBounds(20,220,300,30);
