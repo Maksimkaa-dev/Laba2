@@ -28,8 +28,8 @@ public class information {
 		JLabel User2 = new JLabel("Андриянов Максим Владимирович № зачетной книжки:19130344   19.03.2021"); 
 		User2.setBounds(20,100,700,30);
 		Inf_panel.add(User2);
-		JLabel User3 = new JLabel("Сайдуганов Руслан Анатольевич № зачетной книжки:19130636"); 
-		User3.setBounds(20,140,600,30);
+		JLabel User3 = new JLabel("Сайдуганов Руслан Анатольевич № зачетной книжки:19130636   19.03.2021"); 
+		User3.setBounds(20,140,700,30);
 		Inf_panel.add(User3);
 		JLabel User4 = new JLabel("Хуснуриялов Булат Фагитович № зачетной книжки:19130608"); 
 		User4.setBounds(20,180,600,30);
